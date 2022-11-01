@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100px;
+
+
+}
+
+.nav-text{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 700;
+    color: green;
+}
+
+.card{
+    background-color: green;
+    position: relative;
+    top: 330px;
+}
+
+.form{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin:100px;
+}
+
+.button{
+    margin-left:5px;
+    background-color: green;
+    color: white;
+    padding:2px;
+    border-radius: 4px;;
+}
+
+.color{
+    color:green;
+}
+
+.div{
+    background-color: green;
+    text-align: center;
+}
